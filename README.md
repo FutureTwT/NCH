@@ -5,3 +5,7 @@ The source code of "Partial Multi-Modal Hashing via Neighbor-aware Completion Le
 ## Dataset
 
 Refer to https://github.com/FutureTwT/BSTH
+
+## Reference
+
+TBD
